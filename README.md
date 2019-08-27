@@ -1,7 +1,7 @@
 # Solutions to Hackerrank practice problems
-This repository contains 8 solutions to Hackerrank practice problems with Python 3.
+This repository contains 9 solutions to Hackerrank practice problems with Python 3.
 
-Updated daily :) If it was helpful please press a star.
+If it was helpful please press a star.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/dispe1/Hackerrank-Solutions.svg)](https://github.com/dispe1/Hackerrank-Solutions)
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/dispe1/Hackerrank-Solutions.svg)](https://github.com/dispe1/Hackerrank-Solutions)
@@ -22,3 +22,4 @@ Updated daily :) If it was helpful please press a star.
     01. Arrays
         - 2D Array - DS | [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/001.%202D%20Array%20-%20DS.py) | Difficulty: Easy | Score: 15
         - Left Rotation | [Problem](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/002.%20Left%20Rotation.py) | Difficulty: Easy | Score: 20
+        - Minimum Swaps 2 | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/003.%20Minimum%20Swaps%202.py) | Difficulty: Medium | Score: 40
