@@ -6,8 +6,8 @@ import os
 
 def arrayManipulation(n, queries):
     arr = [0 for _ in range(n)]
-    r = 0
-    x = 0
+    max = 0
+    value = 0
 
     for q in queries:
         arr[q[0]-1] += q[2]
@@ -15,11 +15,11 @@ def arrayManipulation(n, queries):
             arr[q[1]] -= q[2]
 
     for i in arr:
-        x += i
-        if r < x:
-            r = x
+        value += i
+        if max < value:
+            max = value
 
-    return r
+    return max
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 13 solutions to Hackerrank practice problems with Python 3.
+This repository contains 14 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -16,6 +16,7 @@ If it was helpful please press a star.
         - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/002.%20Counting%20Valleys.py) | Difficulty: Easy | Score: 15
         - Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/003.%20Jumping%20on%20the%20Clouds.py) | Difficulty: Easy | Score: 20
         - Repeated String | [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/004.%20Repeated%20String.py) | Difficulty: Easy | Score: 20
+        - Count Triplets | [Problem](https://www.hackerrank.com/challenges/count-triplets-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/005.%20Count%20Triplets.py) | Difficulty: Medium | Score: 35
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
