@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 10 solutions to Hackerrank practice problems with Python 3.
+This repository contains 11 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -16,6 +16,7 @@ If it was helpful please press a star.
         - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/002.%20Counting%20Valleys.py) | Difficulty: Easy | Score: 15
         - Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/003.%20Jumping%20on%20the%20Clouds.py) | Difficulty: Easy | Score: 20
         - Repeated String | [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/004.%20Repeated%20String.py) | Difficulty: Easy | Score: 20
+        - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/005.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
     09. Constructive Algorithms
         - New Year Chaos | [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/09.%20Constructive%20Algorithms/001.%20New%20Year%20Chaos.py) | Difficulty: Medium | Score: 40
 - Data Structures
