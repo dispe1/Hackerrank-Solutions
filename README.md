@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 9 solutions to Hackerrank practice problems with Python 3.
+This repository contains 10 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -23,3 +23,4 @@ If it was helpful please press a star.
         - 2D Array - DS | [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/001.%202D%20Array%20-%20DS.py) | Difficulty: Easy | Score: 15
         - Left Rotation | [Problem](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/002.%20Left%20Rotation.py) | Difficulty: Easy | Score: 20
         - Minimum Swaps 2 | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/003.%20Minimum%20Swaps%202.py) | Difficulty: Medium | Score: 40
+        - Array Manipulation | [Problem](https://www.hackerrank.com/challenges/crush/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/004.%20Array%20Manipulation.py) | Difficulty: Hard | Score: 60
