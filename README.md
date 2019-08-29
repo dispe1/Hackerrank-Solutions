@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 18 solutions to Hackerrank practice problems with Python 3.
+This repository contains 19 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -25,6 +25,7 @@ If it was helpful please press a star.
     04. Sorting
         - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
+        - Fraudulent Activity Notifications | [Problem](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/003.%20Fraudulent%20Activity%20Notifications.py) | Difficulty: Medium | Score: 40
     07. Greedy
         - Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/001.%20Mark%20and%20Toys.py) | Difficulty: Easy | Score: 35
     09. Constructive Algorithms
