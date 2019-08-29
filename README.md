@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 15 solutions to Hackerrank practice problems with Python 3.
+This repository contains 16 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -22,6 +22,8 @@ If it was helpful please press a star.
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
         - Sherlock and Anagrams | [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/003.%20Sherlock%20and%20Anagrams.py) | Difficulty: Medium | Score: 50
+    04. Sorting
+        - Sorting; Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Sorting;%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
     09. Constructive Algorithms
         - New Year Chaos | [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/09.%20Constructive%20Algorithms/001.%20New%20Year%20Chaos.py) | Difficulty: Medium | Score: 40
 - Data Structures
