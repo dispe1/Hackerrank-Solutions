@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 16 solutions to Hackerrank practice problems with Python 3.
+This repository contains 17 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -24,6 +24,8 @@ If it was helpful please press a star.
         - Sherlock and Anagrams | [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/003.%20Sherlock%20and%20Anagrams.py) | Difficulty: Medium | Score: 50
     04. Sorting
         - Sorting; Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Sorting;%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
+    07. Greedy
+        - Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/001.%20Mark%20and%20Toys.py) | Difficulty: Easy | Score: 35
     09. Constructive Algorithms
         - New Year Chaos | [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/09.%20Constructive%20Algorithms/001.%20New%20Year%20Chaos.py) | Difficulty: Medium | Score: 40
 - Data Structures
