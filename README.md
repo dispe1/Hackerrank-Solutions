@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 17 solutions to Hackerrank practice problems with Python 3.
+This repository contains 18 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -23,7 +23,8 @@ If it was helpful please press a star.
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
         - Sherlock and Anagrams | [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/003.%20Sherlock%20and%20Anagrams.py) | Difficulty: Medium | Score: 50
     04. Sorting
-        - Sorting; Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Sorting;%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
+        - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
+        - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
     07. Greedy
         - Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/001.%20Mark%20and%20Toys.py) | Difficulty: Easy | Score: 35
     09. Constructive Algorithms
