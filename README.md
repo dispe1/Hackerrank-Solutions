@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 24 solutions to Hackerrank practice problems with Python 3.
+This repository contains 25 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -26,6 +26,7 @@ If it was helpful please press a star.
         - Alternating Characters | [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/005.%20Alternating%20Characters.py) | Difficulty: Easy | Score: 20
         - Sherlock and the Valid String | [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/006.%20Sherlock%20and%20the%20Valid%20String.py) | Difficulty: Medium | Score: 35
         - Special String Again | [Problem](https://www.hackerrank.com/challenges/special-palindrome-again/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/007.%20Special%20String%20Again.py) | Difficulty: Medium | Score: 40
+        - Common Child | [Problem](https://www.hackerrank.com/challenges/common-child/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/008.%20Common%20Child.py) | Difficulty: Medium | Score: 60
     04. Sorting
         - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
