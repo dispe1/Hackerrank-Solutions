@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 27 solutions to Hackerrank practice problems with Python 3.
+This repository contains 28 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -36,6 +36,7 @@ If it was helpful please press a star.
         - Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/001.%20Mark%20and%20Toys.py) | Difficulty: Easy | Score: 35
         - Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/002.%20Minimum%20Absolute%20Difference%20in%20an%20Array.py) | Difficulty: Easy | Score: 15
         - Luck Balance | [Problem](https://www.hackerrank.com/challenges/luck-balance/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/003.%20Luck%20Balance.py) | Difficulty: Easy | Score: 20
+        - Greedy Florist | [Problem](https://www.hackerrank.com/challenges/greedy-florist/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/004.%20Greedy%20Florist.py) | Difficulty: Medium | Score: 35
     09. Constructive Algorithms
         - New Year Chaos | [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/09.%20Constructive%20Algorithms/001.%20New%20Year%20Chaos.py) | Difficulty: Medium | Score: 40
 - Data Structures
