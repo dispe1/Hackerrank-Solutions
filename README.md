@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 29 solutions to Hackerrank practice problems with Python 3.
+This repository contains 30 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -38,6 +38,7 @@ If it was helpful please press a star.
         - Luck Balance | [Problem](https://www.hackerrank.com/challenges/luck-balance/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/003.%20Luck%20Balance.py) | Difficulty: Easy | Score: 20
         - Greedy Florist | [Problem](https://www.hackerrank.com/challenges/greedy-florist/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/004.%20Greedy%20Florist.py) | Difficulty: Medium | Score: 35
         - Max Min | [Problem](https://www.hackerrank.com/challenges/angry-children/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/005.%20Max%20Min.py) | Difficulty: Medium | Score: 35
+        - Reverse Shuffle Merge | [Problem](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/006.%20Reverse%20Shuffle%20Merge.py) | Difficulty: Advanced | Score: 50
     09. Constructive Algorithms
         - New Year Chaos | [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/09.%20Constructive%20Algorithms/001.%20New%20Year%20Chaos.py) | Difficulty: Medium | Score: 40
 - Data Structures
