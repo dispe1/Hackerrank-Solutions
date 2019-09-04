@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 32 solutions to Hackerrank practice problems with Python 3.
+This repository contains 33 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -34,6 +34,7 @@ If it was helpful please press a star.
         - Merge Sort; Counting Inversions | [Problem](https://www.hackerrank.com/challenges/ctci-merge-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/004.%20Merge%20Sort;%20Counting%20Inversions.py) | Difficulty: Hard | Score: 45
     05. Search
         - Hash Tables; Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/001.%20Hash%20Tables;%20Ice%20Cream%20Parlor.py) | Difficulty: Medium | Score: 35
+        - Pairs | [Problem](https://www.hackerrank.com/challenges/pairs/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/002.%20Pairs.py) | Difficulty: Medium | Score: 50
     07. Greedy
         - Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/001.%20Mark%20and%20Toys.py) | Difficulty: Easy | Score: 35
         - Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/002.%20Minimum%20Absolute%20Difference%20in%20an%20Array.py) | Difficulty: Easy | Score: 15
