@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 36 solutions to Hackerrank practice problems with Python 3.
+This repository contains 37 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -38,6 +38,7 @@ If it was helpful please press a star.
         - Triple Sum | [Problem](https://www.hackerrank.com/challenges/triple-sum/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/003.%20Triple%20Sum.py) | Difficulty: Medium | Score: 40
         - Minimum Time Required | [Problem](https://www.hackerrank.com/challenges/minimum-time-required/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/004.%20Minimum%20Time%20Required.py) | Difficulty: Medium | Score: 35
         - Maximum Subarray Sum | [Problem](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/005.%20Maximum%20Subarray%20Sum.py) | Difficulty: Hard | Score: 65
+        - Making Candies | [Problem](https://www.hackerrank.com/challenges/making-candies/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/006.%20Making%20Candies.py) | Difficulty: Hard | Score: 45
     07. Greedy
         - Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/001.%20Mark%20and%20Toys.py) | Difficulty: Easy | Score: 35
         - Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/002.%20Minimum%20Absolute%20Difference%20in%20an%20Array.py) | Difficulty: Easy | Score: 15
