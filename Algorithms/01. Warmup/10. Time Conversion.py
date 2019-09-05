@@ -17,10 +17,7 @@ def timeConversion(s):
         else:
             a = '0' + str(a)
 
-    s = s[:8]
-    s = a + s[2:]
-
-    return s
+    return a + s[2:8]
 
 if __name__ == '__main__':
     f = open(os.environ['OUTPUT_PATH'], 'w')

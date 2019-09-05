@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 46 solutions to Hackerrank practice problems with Python 3.
+This repository contains 47 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -57,6 +57,8 @@ If it was helpful please press a star.
         - Reverse Shuffle Merge | [Problem](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/07.%20Greedy/006.%20Reverse%20Shuffle%20Merge.py) | Difficulty: Advanced | Score: 50
     09. Constructive Algorithms
         - New Year Chaos | [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/09.%20Constructive%20Algorithms/001.%20New%20Year%20Chaos.py) | Difficulty: Medium | Score: 40
+    11. Recursion
+        - Recursive Digit Sum | [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/11.%20Recursion/001.%20Recursive%20Digit%20Sum.py) | Difficulty: Medium | Score: 30
 - Data Structures
     01. Arrays
         - 2D Array - DS | [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/001.%202D%20Array%20-%20DS.py) | Difficulty: Easy | Score: 15
