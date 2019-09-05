@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 39 solutions to Hackerrank practice problems with Python 3.
+This repository contains 40 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -13,6 +13,7 @@ If it was helpful please press a star.
         - Solve Me First | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/001.%20Solve%20Me%20First.py) | Difficulty: Easy | Score: 1
         - Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/002.%20Simple%20Array%20Sum.py) | Difficulty: Easy | Score: 10
         - Compare the Triplets | [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/003.%20Compare%20the%20Triplets.py) | Difficulty: Easy | Score: 10
+        - A Very Big Sum | [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/004.%20A%20Very%20Big%20Sum.py) | Difficulty: Easy | Score: 10
     02. Implementation
         - Sock Merchant | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/001.%20Sock%20Merchant.py) | Difficulty: Easy | Score: 10
         - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/002.%20Counting%20Valleys.py) | Difficulty: Easy | Score: 15
