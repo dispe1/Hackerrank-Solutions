@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 45 solutions to Hackerrank practice problems with Python 3.
+This repository contains 46 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -19,6 +19,7 @@ If it was helpful please press a star.
         - Staircase | [Problem](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/007.%20Staircase.py) | Difficulty: Easy | Score: 10
         - Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/008.%20Mini-Max%20Sum.py) | Difficulty: Easy | Score: 10
         - Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/009.%20Birthday%20Cake%20Candles.py) | Difficulty: Easy | Score: 10
+        - Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/10.%20Time%20Conversion.py) | Difficulty: Easy | Score: 15
     02. Implementation
         - Sock Merchant | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/001.%20Sock%20Merchant.py) | Difficulty: Easy | Score: 10
         - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/002.%20Counting%20Valleys.py) | Difficulty: Easy | Score: 15
