@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 42 solutions to Hackerrank practice problems with Python 3.
+This repository contains 43 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -16,6 +16,7 @@ If it was helpful please press a star.
         - A Very Big Sum | [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/004.%20A%20Very%20Big%20Sum.py) | Difficulty: Easy | Score: 10
         - Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/005.%20Diagonal%20Difference.py) | Difficulty: Easy | Score: 10
         - Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/006.%20Plus%20Minus.py) | Difficulty: Easy | Score: 10
+        - Staircase | [Problem](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/01.%20Warmup/007.%20Staircase.py) | Difficulty: Easy | Score: 10
     02. Implementation
         - Sock Merchant | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/001.%20Sock%20Merchant.py) | Difficulty: Easy | Score: 10
         - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/002.%20Counting%20Valleys.py) | Difficulty: Easy | Score: 15
