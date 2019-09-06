@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 61 solutions to Hackerrank practice problems with Python 3.
+This repository contains 62 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -79,5 +79,6 @@ If it was helpful please press a star.
         - Minimum Swaps 2 | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/003.%20Minimum%20Swaps%202.py) | Difficulty: Medium | Score: 40
         - Array Manipulation | [Problem](https://www.hackerrank.com/challenges/crush/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/004.%20Array%20Manipulation.py) | Difficulty: Hard | Score: 60
         - Arrays - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/005.%20Arrays%20-%20DS.py) | Difficulty: Easy | Score: 10
+        - Dynamic Array | [Problem](https://www.hackerrank.com/challenges/dynamic-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/006.%20Dynamic%20Array.py) | Difficulty: Easy | Score: 15
     03. Trees
         - Swap Nodes [Algo] | [Problem](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/03.%20Trees/001.%20Swap%20Nodes%20[Algo].py) | Difficulty: Medium | Score: 40
