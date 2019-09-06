@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 63 solutions to Hackerrank practice problems with Python 3.
+This repository contains 64 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -81,5 +81,7 @@ If it was helpful please press a star.
         - Arrays - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/005.%20Arrays%20-%20DS.py) | Difficulty: Easy | Score: 10
         - Dynamic Array | [Problem](https://www.hackerrank.com/challenges/dynamic-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/006.%20Dynamic%20Array.py) | Difficulty: Easy | Score: 15
         - Sparse Arrays | [Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/01.%20Arrays/007.%20Sparse%20Arrays.py) | Difficulty: Medium | Score: 25
+    02. Linked Lists
+        - Print the Elements of a Linked List | [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/02.%20Linked%20Lists/001.%20Print%20the%20Elements%20of%20a%20Linked%20List.py) | Difficulty: Easy | Score: 5
     03. Trees
         - Swap Nodes [Algo] | [Problem](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/03.%20Trees/001.%20Swap%20Nodes%20[Algo].py) | Difficulty: Medium | Score: 40
