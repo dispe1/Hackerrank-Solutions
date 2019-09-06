@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 55 solutions to Hackerrank practice problems with Python 3.
+This repository contains 56 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -35,6 +35,7 @@ If it was helpful please press a star.
         - Birthday Chocolate | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/012.%20Birthday%20Chocolate.py) | Difficulty: Easy | Score: 10
         - Divisible Sum Pairs | [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/013.%20Divisible%20Sum%20Pairs.py) | Difficulty: Easy | Score: 10
         - Migratory Birds | [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/014.%20Migratory%20Birds.py) | Difficulty: Easy | Score: 10
+        - Day of the Programmer | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/015.%20Day%20of%20the%20Programmer.py) | Difficulty: Easy | Score: 10
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
