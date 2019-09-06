@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 58 solutions to Hackerrank practice problems with Python 3.
+This repository contains 59 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -38,6 +38,7 @@ If it was helpful please press a star.
         - Day of the Programmer | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/015.%20Day%20of%20the%20Programmer.py) | Difficulty: Easy | Score: 15
         - Bon Appetit | [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/016.%20Bon%20Appetit.py) | Difficulty: Easy | Score: 10
         - Drawing Book | [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/017.%20Drawing%20Book.py) | Difficulty: Easy | Score: 10
+        - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/018.%20Electronics%20Shop.py) | Difficulty: Easy | Score: 15
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
