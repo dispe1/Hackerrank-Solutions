@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 49 solutions to Hackerrank practice problems with Python 3.
+This repository contains 50 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -29,6 +29,7 @@ If it was helpful please press a star.
         - Frequency Queries | [Problem](https://www.hackerrank.com/challenges/frequency-queries/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/006.%20Frequency%20Queries.py) | Difficulty: Medium | Score: 40
         - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/007.%20Grading%20Students.py) | Difficulty: Easy | Score: 10
         - Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/008.%20Apple%20and%20Orange.py) | Difficulty: Easy | Score: 10
+        - Kangaroo | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/009.%20Kangaroo.py) | Difficulty: Easy | Score: 10
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
