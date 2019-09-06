@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 65 solutions to Hackerrank practice problems with Python 3.
+This repository contains 66 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -84,5 +84,6 @@ If it was helpful please press a star.
     02. Linked Lists
         - Print the Elements of a Linked List | [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/02.%20Linked%20Lists/001.%20Print%20the%20Elements%20of%20a%20Linked%20List.py) | Difficulty: Easy | Score: 5
         - Insert a Node at the Tail of Linked List | [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/02.%20Linked%20Lists/002.%20Insert%20a%20Node%20at%20the%20Tail%20of%20Linked%20List.py) | Difficulty: Easy | Score: 5
+        - Insert a node at the head of a linked list | [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/02.%20Linked%20Lists/003.%20Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list.py) | Difficulty: Easy | Score: 5
     03. Trees
         - Swap Nodes [Algo] | [Problem](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/03.%20Trees/001.%20Swap%20Nodes%20[Algo].py) | Difficulty: Medium | Score: 40
