@@ -1,6 +1,6 @@
 # Problem: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 # Difficulty : Easy
-# Score : 10
+# Score : 15
 
 import os
 
