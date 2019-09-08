@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 69 solutions to Hackerrank practice problems with Python 3.
+This repository contains 70 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -88,5 +88,6 @@ If it was helpful please press a star.
         - Insert a node at a specific position in a linked list | [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/02.%20Linked%20Lists/004.%20Insert%20a%20node%20at%20a%20specific%20position%20in%20a%20linked%20list.py) | Difficulty: Easy | Score: 5
         - Delete a Node | [Problem](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/02.%20Linked%20Lists/005.%20Delete%20a%20Node.py) | Difficulty: Easy | Score: 5
         - Print in Reverse | [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/02.%20Linked%20Lists/006.%20Print%20in%20Reverse.py) | Difficulty: Easy | Score: 5
+        - Reverse a linked list | [Problem](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/02.%20Linked%20Lists/007.%20Reverse%20a%20linked%20list.py) | Difficulty: Easy | Score: 5
     03. Trees
         - Swap Nodes [Algo] | [Problem](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Data%20Structures/03.%20Trees/001.%20Swap%20Nodes%20[Algo].py) | Difficulty: Medium | Score: 40
