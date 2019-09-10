@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 76 solutions to Hackerrank practice problems with Python 3.
+This repository contains 77 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -46,6 +46,7 @@ If it was helpful please press a star.
         - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/023.%20The%20Hurdle%20Race.py) | Difficulty: Easy | Score: 15
         - Designer PDF Viewer | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/024.%20Designer%20PDF%20Viewer.py) | Difficulty: Easy | Score: 20
         - Utopian Tree | [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/025.%20Utopian%20Tree.py) | Difficulty: Easy | Score: 20
+        - Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/026.%20Angry%20Professor.py) | Difficulty: Easy | Score: 20
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
