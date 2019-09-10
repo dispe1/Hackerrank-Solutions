@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 72 solutions to Hackerrank practice problems with Python 3.
+This repository contains 73 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -42,6 +42,7 @@ If it was helpful please press a star.
         - Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/019.%20Cats%20and%20a%20Mouse.py) | Difficulty: Easy | Score: 15
         - Forming a Magic Square | [Problem](https://www.hackerrank.com/challenges/magic-square-forming/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/020.%20Forming%20a%20Magic%20Square.py) | Difficulty: Medium | Score: 20
         - Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/021.%20Picking%20Numbers.py) | Difficulty: Easy | Score: 20
+        - Climbing the Leaderboard | [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/022.%20Climbing%20the%20Leaderboard.py) | Difficulty: Medium | Score: 20
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
