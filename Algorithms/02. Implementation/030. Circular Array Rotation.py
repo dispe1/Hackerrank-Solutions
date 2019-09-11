@@ -1,6 +1,6 @@
 # Problem: https://www.hackerrank.com/challenges/circular-array-rotation/problem
 # Difficulty : Easy
-# Score : 15
+# Score :20
 
 import os
 
