@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 82 solutions to Hackerrank practice problems with Python 3.
+This repository contains 83 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -52,6 +52,7 @@ If it was helpful please press a star.
         - Save the Prisoner! | [Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/029.%20Save%20the%20Prisoner!.py) | Difficulty: Easy | Score: 15
         - Circular Array Rotation | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/030.%20Circular%20Array%20Rotation.py) | Difficulty: Easy | Score: :20
         - Sequence Equation | [Problem](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/031.%20Sequence%20Equation.py) | Difficulty: Easy | Score: 20
+        - Jumping on the Clouds; Revisited | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/032.%20Jumping%20on%20the%20Clouds;%20Revisited.py) | Difficulty: Easy | Score: 15
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
