@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 84 solutions to Hackerrank practice problems with Python 3.
+This repository contains 86 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -54,6 +54,8 @@ If it was helpful please press a star.
         - Sequence Equation | [Problem](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/031.%20Sequence%20Equation.py) | Difficulty: Easy | Score: 20
         - Jumping on the Clouds; Revisited | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/032.%20Jumping%20on%20the%20Clouds;%20Revisited.py) | Difficulty: Easy | Score: 15
         - Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/033.%20Find%20Digits.py) | Difficulty: Easy | Score: 25
+        - Extra Long Factorials | [Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/034.%20Extra%20Long%20Factorials.py) | Difficulty: Medium | Score: 20
+        - Append and Delete | [Problem](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/035.%20Append%20and%20Delete.py) | Difficulty: Easy | Score: 20
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
