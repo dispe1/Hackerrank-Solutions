@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 91 solutions to Hackerrank practice problems with Python 3.
+This repository contains 92 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -61,6 +61,7 @@ If it was helpful please press a star.
         - Cut the Sticks | [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/038.%20Cut%20the%20Sticks.py) | Difficulty: Easy | Score: 25
         - Non-divisible Subset | [Problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/039.%20Non-divisible%20Subset.py) | Difficulty: Medium | Score: 20
         - Equalize the Array | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/040.%20Equalize%20the%20Array.py) | Difficulty: Easy | Score: 20
+        - Queen's Attack II | [Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/041.%20Queen's%20Attack%20II.py) | Difficulty: Medium | Score: 30
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
