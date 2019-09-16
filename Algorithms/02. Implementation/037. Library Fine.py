@@ -1,6 +1,6 @@
 # Problem: https://www.hackerrank.com/challenges/library-fine/problem
 # Difficulty : Easy
-# Score : 20
+# Score : 15
 
 import os
 
