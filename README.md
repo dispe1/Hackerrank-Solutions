@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 94 solutions to Hackerrank practice problems with Python 3.
+This repository contains 95 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -64,6 +64,7 @@ If it was helpful please press a star.
         - Queen's Attack II | [Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/041.%20Queen's%20Attack%20II.py) | Difficulty: Medium | Score: 30
         - ACM ICPC Team | [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/042.%20ACM%20ICPC%20Team.py) | Difficulty: Easy | Score: 25
         - Taum and B'day | [Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/043.%20Taum%20and%20B'day.py) | Difficulty: Easy | Score: 25
+        - Organizing Containers of Balls | [Problem](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/044.%20Organizing%20Containers%20of%20Balls.py) | Difficulty: Medium | Score: 30
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
