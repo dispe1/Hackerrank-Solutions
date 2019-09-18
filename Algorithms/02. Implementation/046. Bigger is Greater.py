@@ -1,4 +1,4 @@
-# Problem: https://www.hackerrank.com/challenges/encryption/problem
+# Problem: https://www.hackerrank.com/challenges/bigger-is-greater/problem
 # Difficulty : Medium
 # Score : 35
 
