@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 99 solutions to Hackerrank practice problems with Python 3.
+This repository contains 100 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -69,6 +69,7 @@ If it was helpful please press a star.
         - Bigger is Greater | [Problem](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/046.%20Bigger%20is%20Greater.py) | Difficulty: Medium | Score: 35
         - Modified Kaprekar Numbers | [Problem](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/047.%20Modified%20Kaprekar%20Numbers.py) | Difficulty: Easy | Score: 30
         - Beautiful Triplets | [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/048.%20Beautiful%20Triplets.py) | Difficulty: Easy | Score: 20
+        - Minimum Distances | [Problem](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/049.%20Minimum%20Distances.py) | Difficulty: Easy | Score: 20
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
