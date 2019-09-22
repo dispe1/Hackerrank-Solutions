@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 101 solutions to Hackerrank practice problems with Python 3.
+This repository contains 102 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -71,6 +71,7 @@ If it was helpful please press a star.
         - Beautiful Triplets | [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/048.%20Beautiful%20Triplets.py) | Difficulty: Easy | Score: 20
         - Minimum Distances | [Problem](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/049.%20Minimum%20Distances.py) | Difficulty: Easy | Score: 20
         - Halloween Sale | [Problem](https://www.hackerrank.com/challenges/halloween-sale/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/050.%20Halloween%20Sale.py) | Difficulty: Easy | Score: 20
+        - The Time in Words | [Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/051.%20The%20Time%20in%20Words.py) | Difficulty: Medium | Score: 25
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
