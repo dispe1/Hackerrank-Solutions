@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 106 solutions to Hackerrank practice problems with Python 3.
+This repository contains 107 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -76,6 +76,7 @@ If it was helpful please press a star.
         - Service Lane | [Problem](https://www.hackerrank.com/challenges/service-lane/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/053.%20Service%20Lane.py) | Difficulty: Easy | Score: 20
         - Lisa's Workbook | [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/054.%20Lisa's%20Workbook.py) | Difficulty: Easy | Score: 25
         - Flatland Space Stations | [Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/055.%20Flatland%20Space%20Stations.py) | Difficulty: Easy | Score: 25
+        - Fari Rations | [Problem](https://www.hackerrank.com/challenges/fair-rations/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/056.%20Fari%20Rations.py) | Difficulty: Easy | Score: 25
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
