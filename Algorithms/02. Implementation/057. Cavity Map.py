@@ -1,6 +1,6 @@
 # Problem: https://www.hackerrank.com/challenges/cavity-map/problem
 # Difficulty : Easy
-# Score :
+# Score : 30
 
 import os
 
