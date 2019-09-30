@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 113 solutions to Hackerrank practice problems with Python 3.
+This repository contains 114 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -83,6 +83,7 @@ If it was helpful please press a star.
         - Happy Ladybugs | [Problem](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/060.%20Happy%20Ladybugs.py) | Difficulty: Easy | Score: 30
         - Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/061.%20Strange%20Counter.py) | Difficulty: Easy | Score: 30
         - 3D Surface Area | [Problem](https://www.hackerrank.com/challenges/3d-surface-area/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/062.%203D%20Surface%20Area.py) | Difficulty: Medium | Score: 30
+        - Absolute Permutation | [Problem](https://www.hackerrank.com/challenges/absolute-permutation/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/063.%20Absolute%20Permutation.py) | Difficulty: Medium | Score: 40
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
