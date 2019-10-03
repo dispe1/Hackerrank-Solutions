@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 117 solutions to Hackerrank practice problems with Python 3.
+This repository contains 118 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -87,6 +87,7 @@ If it was helpful please press a star.
         - The Bomberman Game | [Problem](https://www.hackerrank.com/challenges/bomber-man/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/064.%20The%20Bomberman%20Game.py) | Difficulty: Medium | Score: 40
         - Ema's Supercomputer | [Problem](https://www.hackerrank.com/challenges/two-pluses/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/065.%20Ema's%20Supercomputer.py) | Difficulty: Medium | Score: 40
         - arry's Array | [Problem](https://www.hackerrank.com/challenges/larrys-array/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/066.Larry's%20Array.py) | Difficulty: Medium | Score: 40
+        - Almost Sorted | [Problem](https://www.hackerrank.com/challenges/almost-sorted/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/02.%20Implementation/067.%20Almost%20Sorted.py) | Difficulty: Medium | Score: 50
     03. Strings
         - Hash Tables; Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/001.%20Hash%20Tables;%20Ransom%20Note.py) | Difficulty: Easy | Score: 25
         - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/002.%20Two%20Strings.py) | Difficulty: Easy | Score: 25
