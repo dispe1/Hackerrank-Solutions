@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 119 solutions to Hackerrank practice problems with Python 3.
+This repository contains 120 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -103,6 +103,7 @@ If it was helpful please press a star.
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
         - Fraudulent Activity Notifications | [Problem](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/003.%20Fraudulent%20Activity%20Notifications.py) | Difficulty: Medium | Score: 40
         - Merge Sort; Counting Inversions | [Problem](https://www.hackerrank.com/challenges/ctci-merge-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/004.%20Merge%20Sort;%20Counting%20Inversions.py) | Difficulty: Hard | Score: 45
+        - Big Sorting | [Problem](https://www.hackerrank.com/challenges/big-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/005.%20Big%20Sorting.py) | Difficulty: Easy | Score: 20
     05. Search
         - Hash Tables; Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/001.%20Hash%20Tables;%20Ice%20Cream%20Parlor.py) | Difficulty: Medium | Score: 35
         - Pairs | [Problem](https://www.hackerrank.com/challenges/pairs/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/002.%20Pairs.py) | Difficulty: Medium | Score: 50
