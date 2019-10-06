@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 124 solutions to Hackerrank practice problems with Python 3.
+This repository contains 125 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -100,6 +100,7 @@ If it was helpful please press a star.
         - Common Child | [Problem](https://www.hackerrank.com/challenges/common-child/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/008.%20Common%20Child.py) | Difficulty: Medium | Score: 60
         - Super Reduced String | [Problem](https://www.hackerrank.com/challenges/reduced-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/009.%20Super%20Reduced%20String.py) | Difficulty: Easy | Score: 10
         - CamelCase | [Problem](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/010.%20CamelCase.py) | Difficulty: Easy | Score: 15
+        - Strong Password | [Problem](https://www.hackerrank.com/challenges/strong-password/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/011.%20Strong%20Password.py) | Difficulty: Easy | Score: 15
     04. Sorting
         - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
