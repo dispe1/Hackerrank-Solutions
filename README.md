@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 127 solutions to Hackerrank practice problems with Python 3.
+This repository contains 129 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -102,6 +102,7 @@ If it was helpful please press a star.
         - CamelCase | [Problem](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/010.%20CamelCase.py) | Difficulty: Easy | Score: 15
         - Strong Password | [Problem](https://www.hackerrank.com/challenges/strong-password/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/011.%20Strong%20Password.py) | Difficulty: Easy | Score: 15
         - Two Characters | [Problem](https://www.hackerrank.com/challenges/two-characters/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/012.%20Two%20Characters.py) | Difficulty: Easy | Score: 20
+        - Caesar Cipher | [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/013.%20Caesar%20Cipher.py) | Difficulty: Easy | Score: 15
     04. Sorting
         - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
@@ -111,6 +112,7 @@ If it was helpful please press a star.
         - Intro to Tutorial Challenges | [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/006.%20Intro%20to%20Tutorial%20Challenges.py) | Difficulty: Easy | Score: 30
         - Insertion Sort - Part 1 | [Problem](https://www.hackerrank.com/challenges/insertionsort1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/007.%20Insertion%20Sort%20-%20Part%201.py) | Difficulty: Easy | Score: 30
         - Insertion Sort - Part 2 | [Problem](https://www.hackerrank.com/challenges/insertionsort2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/008.%20Insertion%20Sort%20-%20Part%202.py) | Difficulty: Easy | Score: 30
+        - Correctness and the Loop Invariant | [Problem](https://www.hackerrank.com/challenges/correctness-invariant/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/009.%20Correctness%20and%20the%20Loop%20Invariant.py) | Difficulty: Easy | Score: 30
     05. Search
         - Hash Tables; Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/001.%20Hash%20Tables;%20Ice%20Cream%20Parlor.py) | Difficulty: Medium | Score: 35
         - Pairs | [Problem](https://www.hackerrank.com/challenges/pairs/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/002.%20Pairs.py) | Difficulty: Medium | Score: 50
