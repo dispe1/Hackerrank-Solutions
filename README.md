@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 134 solutions to Hackerrank practice problems with Python 3.
+This repository contains 135 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -103,6 +103,7 @@ If it was helpful please press a star.
         - Strong Password | [Problem](https://www.hackerrank.com/challenges/strong-password/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/011.%20Strong%20Password.py) | Difficulty: Easy | Score: 15
         - Two Characters | [Problem](https://www.hackerrank.com/challenges/two-characters/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/012.%20Two%20Characters.py) | Difficulty: Easy | Score: 20
         - Caesar Cipher | [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/013.%20Caesar%20Cipher.py) | Difficulty: Easy | Score: 15
+        - Mars Exploration | [Problem](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/014.%20Mars%20Exploration.py) | Difficulty: Easy | Score: 15
     04. Sorting
         - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
