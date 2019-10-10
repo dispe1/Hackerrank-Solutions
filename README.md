@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 144 solutions to Hackerrank practice problems with Python 3.
+This repository contains 145 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -109,6 +109,7 @@ If it was helpful please press a star.
         - Weighted Uniform Strings | [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/017.%20Weighted%20Uniform%20Strings.py) | Difficulty: Easy | Score: 20
         - Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/018.%20Separate%20the%20Numbers.py) | Difficulty: Easy | Score: 20
         - Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/019.%20Funny%20String.py) | Difficulty: Easy | Score: 25
+        - Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/020.%20Gemstones.py) | Difficulty: Easy | Score: 20
     04. Sorting
         - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
