@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 145 solutions to Hackerrank practice problems with Python 3.
+This repository contains 149 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -168,3 +168,7 @@ If it was helpful please press a star.
         - Day 1; Quartiles | [Problem](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/003.%20Day%201;%20Quartiles.py) | Difficulty: Easy | Score: 30
         - Day 1; Interquartile Range | [Problem](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/004.%20Day%201;%20Interquartile%20Range.py) | Difficulty: Easy | Score: 30
         - Day 1; Standard Deviation | [Problem](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/005.%20Day%201;%20Standard%20Deviation.py) | Difficulty: Easy | Score: 30
+        - Day 4; Binomial Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/006.%20Day%204;%20Binomial%20Distribution%20I.py) | Difficulty: Easy | Score: 30
+        - Day 4; Binomial Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/007.%20Day%204;%20Binomial%20Distribution%20II.py) | Difficulty: Easy | Score: 30
+        - Day 4; Geometric Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/008.%20Day%204;%20Geometric%20Distribution%20I.py) | Difficulty: Easy | Score: 30
+        - Day 4; Geometric Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/009.%20Day%204;%20Geometric%20Distribution%20II.py) | Difficulty: Easy | Score: 30
