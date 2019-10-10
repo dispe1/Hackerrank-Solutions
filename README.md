@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 142 solutions to Hackerrank practice problems with Python 3.
+This repository contains 143 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -121,6 +121,7 @@ If it was helpful please press a star.
         - Correctness and the Loop Invariant | [Problem](https://www.hackerrank.com/challenges/correctness-invariant/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/009.%20Correctness%20and%20the%20Loop%20Invariant.py) | Difficulty: Easy | Score: 30
         - Running Time of Algorithms | [Problem](https://www.hackerrank.com/challenges/runningtime/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/010.%20Running%20Time%20of%20Algorithms.py) | Difficulty: Easy | Score: 30
         - Quicksort 1 - Partition | [Problem](https://www.hackerrank.com/challenges/quicksort1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/011.%20Quicksort%201%20-%20Partition.py) | Difficulty: Easy | Score: 10
+        - Counting Sort 1 | [Problem](https://www.hackerrank.com/challenges/sfunny-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/012.%20Counting%20Sort%201.py) | Difficulty: Easy | Score: 30
     05. Search
         - Hash Tables; Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/001.%20Hash%20Tables;%20Ice%20Cream%20Parlor.py) | Difficulty: Medium | Score: 35
         - Pairs | [Problem](https://www.hackerrank.com/challenges/pairs/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/002.%20Pairs.py) | Difficulty: Medium | Score: 50
