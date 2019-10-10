@@ -1,4 +1,4 @@
-# Problem: https://www.hackerrank.com/challenges/sfunny-string/problem
+# Problem: https://www.hackerrank.com/challenges/funny-string/problem
 # Difficulty : Easy
 # Score : 25
 

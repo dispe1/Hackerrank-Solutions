@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 143 solutions to Hackerrank practice problems with Python 3.
+This repository contains 144 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -108,7 +108,7 @@ If it was helpful please press a star.
         - Pangrams | [Problem](https://www.hackerrank.com/challenges/pangrams/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/016.%20Pangrams.py) | Difficulty: Easy | Score: 20
         - Weighted Uniform Strings | [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/017.%20Weighted%20Uniform%20Strings.py) | Difficulty: Easy | Score: 20
         - Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/018.%20Separate%20the%20Numbers.py) | Difficulty: Easy | Score: 20
-        - Funny String | [Problem](https://www.hackerrank.com/challenges/sfunny-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/019.%20Funny%20String.py) | Difficulty: Easy | Score: 25
+        - Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/019.%20Funny%20String.py) | Difficulty: Easy | Score: 25
     04. Sorting
         - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
@@ -121,7 +121,8 @@ If it was helpful please press a star.
         - Correctness and the Loop Invariant | [Problem](https://www.hackerrank.com/challenges/correctness-invariant/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/009.%20Correctness%20and%20the%20Loop%20Invariant.py) | Difficulty: Easy | Score: 30
         - Running Time of Algorithms | [Problem](https://www.hackerrank.com/challenges/runningtime/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/010.%20Running%20Time%20of%20Algorithms.py) | Difficulty: Easy | Score: 30
         - Quicksort 1 - Partition | [Problem](https://www.hackerrank.com/challenges/quicksort1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/011.%20Quicksort%201%20-%20Partition.py) | Difficulty: Easy | Score: 10
-        - Counting Sort 1 | [Problem](https://www.hackerrank.com/challenges/sfunny-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/012.%20Counting%20Sort%201.py) | Difficulty: Easy | Score: 30
+        - Counting Sort 1 | [Problem](https://www.hackerrank.com/challenges/countingsort1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/012.%20Counting%20Sort%201.py) | Difficulty: Easy | Score: 30
+        - Counting Sort 2 | [Problem](https://www.hackerrank.com/challenges/countingsort2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/013.%20Counting%20Sort%202.py) | Difficulty: Easy | Score: 30
     05. Search
         - Hash Tables; Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/001.%20Hash%20Tables;%20Ice%20Cream%20Parlor.py) | Difficulty: Medium | Score: 35
         - Pairs | [Problem](https://www.hackerrank.com/challenges/pairs/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/05.%20Search/002.%20Pairs.py) | Difficulty: Medium | Score: 50

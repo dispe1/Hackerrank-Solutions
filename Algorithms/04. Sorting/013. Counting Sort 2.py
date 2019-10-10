@@ -1,14 +1,19 @@
-# Problem: https://www.hackerrank.com/challenges/countingsort1/problem
+# Problem: https://www.hackerrank.com/challenges/countingsort2/problem
 # Difficulty : Easy
 # Score : 30
 
 import os
 
 def countingSort(arr):
-    ret = [0 for _ in range(100)]
+    s = [0 for _ in range(100)]
+    ret = []
 
     for i in arr:
-        ret[i] += 1
+        s[i] += 1
+
+    for i in range(len(s)):
+        for j in range(s[i]):
+            ret.append(i)
 
     return ret
 
