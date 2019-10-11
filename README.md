@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 150 solutions to Hackerrank practice problems with Python 3.
+This repository contains 154 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -173,3 +173,7 @@ If it was helpful please press a star.
         - Day 4; Binomial Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/007.%20Day%204;%20Binomial%20Distribution%20II.py) | Difficulty: Easy | Score: 30
         - Day 4; Geometric Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/008.%20Day%204;%20Geometric%20Distribution%20I.py) | Difficulty: Easy | Score: 30
         - Day 4; Geometric Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/009.%20Day%204;%20Geometric%20Distribution%20II.py) | Difficulty: Easy | Score: 30
+        - Day 5; Poisson Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/010.%20Day%205;%20Poisson%20Distribution%20I.py) | Difficulty: Easy | Score: 30
+        - Day 5; Poisson Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/011.%20Day%205;%20Poisson%20Distribution%20II.py) | Difficulty: Easy | Score: 30
+        - Day 5; Normal Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/012.%20Day%205;%20Normal%20Distribution%20I.py) | Difficulty: Easy | Score: 30
+        - Day 6; Normal Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/013.%20Day%206;%20Normal%20Distribution%20II.py) | Difficulty: Easy | Score: 30
