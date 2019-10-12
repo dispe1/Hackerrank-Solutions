@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 154 solutions to Hackerrank practice problems with Python 3.
+This repository contains 155 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -110,6 +110,7 @@ If it was helpful please press a star.
         - Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/018.%20Separate%20the%20Numbers.py) | Difficulty: Easy | Score: 20
         - Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/019.%20Funny%20String.py) | Difficulty: Easy | Score: 25
         - Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/020.%20Gemstones.py) | Difficulty: Easy | Score: 20
+        - Beautiful Binary String | [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/021.%20Beautiful%20Binary%20String.py) | Difficulty: Easy | Score: 20
     04. Sorting
         - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
@@ -176,4 +177,4 @@ If it was helpful please press a star.
         - Day 5; Poisson Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/010.%20Day%205;%20Poisson%20Distribution%20I.py) | Difficulty: Easy | Score: 30
         - Day 5; Poisson Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/011.%20Day%205;%20Poisson%20Distribution%20II.py) | Difficulty: Easy | Score: 30
         - Day 5; Normal Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/012.%20Day%205;%20Normal%20Distribution%20I.py) | Difficulty: Easy | Score: 30
-        - Day 6; Normal Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/013.%20Day%206;%20Normal%20Distribution%20II.py) | Difficulty: Easy | Score: 30
+        - Day 5; Normal Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/013.%20Day%205;%20Normal%20Distribution%20II.py) | Difficulty: Easy | Score: 30
