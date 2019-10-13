@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 156 solutions to Hackerrank practice problems with Python 3.
+This repository contains 159 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -179,3 +179,6 @@ If it was helpful please press a star.
         - Day 5; Poisson Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/011.%20Day%205;%20Poisson%20Distribution%20II.py) | Difficulty: Easy | Score: 30
         - Day 5; Normal Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/012.%20Day%205;%20Normal%20Distribution%20I.py) | Difficulty: Easy | Score: 30
         - Day 5; Normal Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/013.%20Day%205;%20Normal%20Distribution%20II.py) | Difficulty: Easy | Score: 30
+        - Day 6; The Central Limit Theorem I | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/014.%20Day%206;%20The%20Central%20Limit%20Theorem%20I.py) | Difficulty: Easy | Score: 30
+        - Day 6; The Central Limit Theorem II | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/015.%20Day%206;%20The%20Central%20Limit%20Theorem%20II.py) | Difficulty: Easy | Score: 30
+        - Day 6; The Central Limit Theorem III | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/016.%20Day%206;%20The%20Central%20Limit%20Theorem%20III.py) | Difficulty: Easy | Score: 30
