@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 160 solutions to Hackerrank practice problems with Python 3.
+This repository contains 162 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -183,3 +183,5 @@ If it was helpful please press a star.
         - Day 6; The Central Limit Theorem I | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/014.%20Day%206;%20The%20Central%20Limit%20Theorem%20I.py) | Difficulty: Easy | Score: 30
         - Day 6; The Central Limit Theorem II | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/015.%20Day%206;%20The%20Central%20Limit%20Theorem%20II.py) | Difficulty: Easy | Score: 30
         - Day 6; The Central Limit Theorem III | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/016.%20Day%206;%20The%20Central%20Limit%20Theorem%20III.py) | Difficulty: Easy | Score: 30
+        - Day 7; Pearson Correlation Coefficient I | [Problem](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/017.%20Day%207;%20Pearson%20Correlation%20Coefficient%20I.py) | Difficulty: Easy | Score: 30
+        - Day 7; Spearman's Rank Correlation Coefficient | [Problem](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/018.%20Day%207;%20Spearman's%20Rank%20Correlation%20Coefficient.py) | Difficulty: Easy | Score: 30
