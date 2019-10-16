@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 163 solutions to Hackerrank practice problems with Python 3.
+This repository contains 164 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -113,6 +113,7 @@ If it was helpful please press a star.
         - Beautiful Binary String | [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/021.%20Beautiful%20Binary%20String.py) | Difficulty: Easy | Score: 20
         - Making Anagrams | [Problem](https://www.hackerrank.com/challenges/making-anagrams/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/022.%20Making%20Anagrams.py) | Difficulty: Easy | Score: 30
         - The Love-Letter Mystery | [Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/023.%20The%20Love-Letter%20Mystery.py) | Difficulty: Easy | Score: 20
+        - Palindrome Index | [Problem](https://www.hackerrank.com/challenges/palindrome-index/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/03.%20Strings/024.%20Palindrome%20Index.py) | Difficulty: Easy | Score: 25
     04. Sorting
         - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/001.%20Bubble%20Sort.py) | Difficulty: Easy | Score: 30
         - Comparator | [Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Algorithms/04.%20Sorting/002.%20Comparator.py) | Difficulty: Medium | Score: 35
