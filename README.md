@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 168 solutions to Hackerrank practice problems with Python 3.
+This repository contains 169 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -191,3 +191,5 @@ If it was helpful please press a star.
         - Day 7; Spearman's Rank Correlation Coefficient | [Problem](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/018.%20Day%207;%20Spearman's%20Rank%20Correlation%20Coefficient.py) | Difficulty: Easy | Score: 30
         - Day 8; Least Square Regression Line | [Problem](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/019.%20Day%208;%20Least%20Square%20Regression%20Line.py) | Difficulty: Easy | Score: 30
         - Day 9; Multiple Linear Regression | [Problem](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/01.%2010%20Days%20of%20Statistics/020.%20Day%209;%20Multiple%20Linear%20Regression.py) | Difficulty: Medium | Score: 30
+    02. 30 Days of Code
+        - Day 0; Hello, World | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/001.%20Day%200;%20Hello,%20World.py) | Difficulty: Easy | Score: 30
