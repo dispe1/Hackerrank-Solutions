@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 170 solutions to Hackerrank practice problems with Python 3.
+This repository contains 171 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -194,3 +194,4 @@ If it was helpful please press a star.
     02. 30 Days of Code
         - Day 0; Hello, World | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/001.%20Day%200;%20Hello,%20World.py) | Difficulty: Easy | Score: 30
         - Day 1; Data Types | [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/002.%20Day%201;%20Data%20Types.py) | Difficulty: Easy | Score: 30
+        - Day 2; Operators | [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/003.%20Day%202;%20Operators.py) | Difficulty: Easy | Score: 30
