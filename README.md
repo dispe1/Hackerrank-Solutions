@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 172 solutions to Hackerrank practice problems with Python 3.
+This repository contains 173 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -195,4 +195,5 @@ If it was helpful please press a star.
         - Day 0; Hello, World | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/001.%20Day%200;%20Hello,%20World.py) | Difficulty: Easy | Score: 30
         - Day 1; Data Types | [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/002.%20Day%201;%20Data%20Types.py) | Difficulty: Easy | Score: 30
         - Day 2; Operators | [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/003.%20Day%202;%20Operators.py) | Difficulty: Easy | Score: 30
-        - Day3; Intro to Conditional Statements | [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/004.%20Day3;%20Intro%20to%20Conditional%20Statements.py) | Difficulty: Easy | Score: 30
+        - Day 3; Intro to Conditional Statements | [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/004.%20Day%203;%20Intro%20to%20Conditional%20Statements.py) | Difficulty: Easy | Score: 30
+        - Day 4; Class vs Instance | [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/005.%20Day%204;%20Class%20vs.%20Instance.py) | Difficulty: Easy | Score: 30
