@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 176 solutions to Hackerrank practice problems with Python 3.
+This repository contains 177 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -200,3 +200,4 @@ If it was helpful please press a star.
         - Day 4; Class vs Instance | [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/005.%20Day%204;%20Class%20vs.%20Instance.py) | Difficulty: Easy | Score: 30
         - Day 5; Loops | [Problem](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/006.%20Day%205;%20Loops.py) | Difficulty: Easy | Score: 30
         - Day 6; Let's Review | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/007.%20Day%206;%20Let's%20Review.py) | Difficulty: Easy | Score: 30
+        - Day 7; Arrays | [Problem](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/008.%20Day%207;%20Arrays.py) | Difficulty: Easy | Score: 30
