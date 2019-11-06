@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 181 solutions to Hackerrank practice problems with Python 3.
+This repository contains 182 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -205,3 +205,4 @@ If it was helpful please press a star.
         - Day 9; Recursion 3 | [Problem](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/010.%20Day%209;%20Recursion%203.py) | Difficulty: Easy | Score: 30
         - Day 10; Binary Numbers | [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/011.%20Day%2010;%20Binary%20Numbers.py) | Difficulty: Easy | Score: 30
         - Day 11; 2D Arrays | [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/012.%20Day%2011;%202D%20Arrays.py) | Difficulty: Easy | Score: 30
+        - Day 12; Inheritance | [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/013.%20Day%2012;%20Inheritance.py) | Difficulty: Easy | Score: 30
