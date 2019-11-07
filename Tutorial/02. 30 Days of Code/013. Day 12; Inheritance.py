@@ -29,7 +29,6 @@ class Student(Person):
         else:
             self.grade = 'T'
 
-
     def printPerson(self):
         self.person.printPerson()
 

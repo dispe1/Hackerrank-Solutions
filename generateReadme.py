@@ -1,7 +1,5 @@
-
 import os
 import functools
-
 
 def getFoldersNames(path):
     folders = []
@@ -10,11 +8,9 @@ def getFoldersNames(path):
             folders.append(item)
     return folders
 
-
 def getFilesNames(path):
     files = os.listdir(path)
     return files
-
 
 def getProblemURLandScore(path):
     inFile = open(path, 'r')
@@ -24,7 +20,6 @@ def getProblemURLandScore(path):
     inFile.close()
     return url, difficulty, score
 
-
 def getTotalNumberOfProblems():
     totalNumber = 0
     folders = getFoldersNames(os.getcwd())
@@ -33,7 +28,6 @@ def getTotalNumberOfProblems():
         for subfolder in subfolders:
             totalNumber += len(getFilesNames(os.path.join(os.getcwd(), folder, subfolder)))
     return totalNumber
-
 
 readmeFile = open('README.md', 'w')
 readmeFile.write('# Solutions to Hackerrank practice problems\n')
