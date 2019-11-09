@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 183 solutions to Hackerrank practice problems with Python 3.
+This repository contains 184 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -207,3 +207,4 @@ If it was helpful please press a star.
         - Day 11; 2D Arrays | [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/012.%20Day%2011;%202D%20Arrays.py) | Difficulty: Easy | Score: 30
         - Day 12; Inheritance | [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/013.%20Day%2012;%20Inheritance.py) | Difficulty: Easy | Score: 30
         - Day 13; Abastact Classes | [Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/014.%20Day%2013;%20Abastact%20Classes.py) | Difficulty: Easy | Score: 30
+        - Day 14; Scope | [Problem](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/015.%20Day%2014;%20Scope.py) | Difficulty: Easy | Score: 30
