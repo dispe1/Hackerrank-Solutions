@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 187 solutions to Hackerrank practice problems with Python 3.
+This repository contains 188 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -211,3 +211,4 @@ If it was helpful please press a star.
         - Day 15; Linked List | [Problem](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/016.%20Day%2015;%20Linked%20List.py) | Difficulty: Easy | Score: 30
         - Day 16; Exceptions - String to Integer | [Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/017.%20Day%2016;%20Exceptions%20-%20String%20to%20Integer.py) | Difficulty: Easy | Score: 30
         - Day 17; More Exceptions | [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/018.%20Day%2017;%20More%20Exceptions.py) | Difficulty: Easy | Score: 30
+        - Day 18; Queue and Stacks | [Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/019.%20Day%2018;%20Queue%20and%20Stacks.py) | Difficulty: Easy | Score: 30
