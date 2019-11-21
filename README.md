@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 190 solutions to Hackerrank practice problems with Python 3.
+This repository contains 191 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -214,3 +214,4 @@ If it was helpful please press a star.
         - Day 18; Queue and Stacks | [Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/019.%20Day%2018;%20Queue%20and%20Stacks.py) | Difficulty: Easy | Score: 30
         - Day 19; Interfaces | [Problem](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/020.%20Day%2019;%20Interfaces.py) | Difficulty: Easy | Score: 30
         - Day 20; Sorting | [Problem](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/021.%20Day%2020;%20Sorting.py) | Difficulty: Easy | Score: 30
+        - Day 21; Binary Search Trees | [Problem](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/022.%20Day%2021;%20Binary%20Search%20Trees.py) | Difficulty: Easy | Score: 30
