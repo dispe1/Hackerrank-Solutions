@@ -1,6 +1,8 @@
-# Problem: https://www.hackerrank.com/challenges/30-sorting/problem
+# Problem: https://www.hackerrank.com/challenges/30-binary-trees/problem
 # Difficulty : Easy
 # Score : 30
+
+import sys
 
 class Node:
     def __init__(self,data):
@@ -19,14 +21,15 @@ class Solution:
                 root.right=cur
         return root
 
-    def getHeight(self,root):
-        left = 0
-        right = 0
-        if root.right != None:
-            right += 1 + self.getHeight(root.right)
-        if root.left != None:
-            left += 1 + self.getHeight(root.left)
-        return max(left, right)
+    def levelOrder(self,root):
+        queue = [root] if root else []
+
+        while queue:
+            node = queue.pop()
+            print(node.data, end=" ")
+
+            if node.left: queue.insert(0,node.left)
+            if node.right: queue.insert(0,node.right)
 
 T=int(input())
 myTree=Solution()
@@ -34,5 +37,4 @@ root=None
 for i in range(T):
     data=int(input())
     root=myTree.insert(root,data)
-height=myTree.getHeight(root)
-print(height)       
+myTree.levelOrder(root)
