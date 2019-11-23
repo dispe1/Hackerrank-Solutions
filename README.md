@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 192 solutions to Hackerrank practice problems with Python 3.
+This repository contains 193 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -216,3 +216,4 @@ If it was helpful please press a star.
         - Day 20; Sorting | [Problem](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/021.%20Day%2020;%20Sorting.py) | Difficulty: Easy | Score: 30
         - Day 22; Binary Search Trees | [Problem](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/023.%20Day%2022;%20Binary%20Search%20Trees.py) | Difficulty: Easy | Score: 30
         - Day 23; BST Level-Order Traversal | [Problem](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/024.%20Day%2023;%20BST%20Level-Order%20Traversal.py) | Difficulty: Easy | Score: 30
+        - Day 24; More Linked Lists | [Problem](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/025.%20Day%2024;%20More%20Linked%20Lists.py) | Difficulty: Easy | Score: 30
