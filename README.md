@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 193 solutions to Hackerrank practice problems with Python 3.
+This repository contains 194 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -217,3 +217,4 @@ If it was helpful please press a star.
         - Day 22; Binary Search Trees | [Problem](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/023.%20Day%2022;%20Binary%20Search%20Trees.py) | Difficulty: Easy | Score: 30
         - Day 23; BST Level-Order Traversal | [Problem](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/024.%20Day%2023;%20BST%20Level-Order%20Traversal.py) | Difficulty: Easy | Score: 30
         - Day 24; More Linked Lists | [Problem](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/025.%20Day%2024;%20More%20Linked%20Lists.py) | Difficulty: Easy | Score: 30
+        - Day 25; Running Time and Complexity | [Problem](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/026.%20Day%2025;%20Running%20Time%20and%20Complexity.py) | Difficulty: Easy | Score: 30
