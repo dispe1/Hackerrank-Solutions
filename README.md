@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 195 solutions to Hackerrank practice problems with Python 3.
+This repository contains 196 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -219,3 +219,4 @@ If it was helpful please press a star.
         - Day 24; More Linked Lists | [Problem](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/025.%20Day%2024;%20More%20Linked%20Lists.py) | Difficulty: Easy | Score: 30
         - Day 25; Running Time and Complexity | [Problem](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/026.%20Day%2025;%20Running%20Time%20and%20Complexity.py) | Difficulty: Easy | Score: 30
         - Day 26; Nested Logic | [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/027.%20Day%2026;%20Nested%20Logic.py) | Difficulty: Easy | Score: 30
+        - Day 27; Testing | [Problem](https://www.hackerrank.com/challenges/30-testing/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/028.%20Day%2027;%20Testing.py) | Difficulty: Easy | Score: 30
