@@ -1,5 +1,5 @@
 # Solutions to Hackerrank practice problems
-This repository contains 197 solutions to Hackerrank practice problems with Python 3.
+This repository contains 198 solutions to Hackerrank practice problems with Python 3.
 
 If it was helpful please press a star.
 
@@ -221,3 +221,4 @@ If it was helpful please press a star.
         - Day 26; Nested Logic | [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/027.%20Day%2026;%20Nested%20Logic.py) | Difficulty: Easy | Score: 30
         - Day 27; Testing | [Problem](https://www.hackerrank.com/challenges/30-testing/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/028.%20Day%2027;%20Testing.py) | Difficulty: Easy | Score: 30
         - Day 28; RegEx, Patterns, and Intro to Databases | [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/029.%20Day%2028;%20RegEx,%20Patterns,%20and%20Intro%20to%20Databases.py) | Difficulty: Easy | Score: 30
+        - Day 29; Bitwise AND | [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](https://github.com/dispe1/Hackerrank-Solutions/blob/master/Tutorial/02.%2030%20Days%20of%20Code/030.%20Day%2029;%20Bitwise%20AND.py) | Difficulty: Easy | Score: 30
